@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# cache
+.node_modules/
+.cache/
+.vite/
+node_modules/.cache/
+
+# env
+.env
